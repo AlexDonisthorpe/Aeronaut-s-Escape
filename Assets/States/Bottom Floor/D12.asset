@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: D12
+  m_EditorClassIdentifier: 
+  storyText: "You throw yourself under the waves and slowly make your way towards
+    the ship, as you get closer you spy the anchor and decide to use it to both hide
+    behind and to climb up onto the deck of the ship.\r\n\r\nYou quickly scramble
+    to the lower decks and look around, there's a few places you could probably stow
+    yourself for the time being, there's a barrel in the corner,  only a quarter full
+    but there's room for you in there. Additionally in another corner there appears
+    to be a load of stacked crates, with some room behind it, maybe there's something
+    back there?\r\n\r\nYou hear footsteps on deck, time to make a choice.\r\n\r\n1.
+    Dive into the Barrel!\r\n2. Jump behind the crates!"
+  nextStates:
+  - {fileID: 11400000, guid: 7cda26bd0f7aa77489de38b99c37a6f6, type: 2}
+  - {fileID: 11400000, guid: 824995cc407ec8741a97d4fca3a0950b, type: 2}

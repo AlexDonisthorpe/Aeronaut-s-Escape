@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: B7
+  m_EditorClassIdentifier: 
+  storyText: "After a number of rounds you slowly accumulate the wealth of the table,
+    totalling a sizeable sum!\r\n\r\nOne of the guards turns to you and says \"Tell
+    ya what, you leave us our paycheques and we'll cover your shift for today? let
+    ya have a day off, so to speak?\"\r\n\r\n1. Take the money\r\n2. Accept the offer"
+  nextStates:
+  - {fileID: 11400000, guid: 48821965c66661a4c9902fa1990f60cc, type: 2}
+  - {fileID: 11400000, guid: 1a9d1316caf724c4d90f3aa0e49a86da, type: 2}

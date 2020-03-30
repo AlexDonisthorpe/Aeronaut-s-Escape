@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: B4
+  m_EditorClassIdentifier: 
+  storyText: "You explain furvently that today is your first day in the guard, and
+    ask if there's room at the table.\r\n\r\nThe guard at the back shrugs as he makes
+    room for you. \"May as well play, there's not much else to do here\", here, you
+    can take the next hand... blackjack.\r\n\r\n1. Agree to play\r\n2. Bluff your
+    way out of the room"
+  nextStates:
+  - {fileID: 11400000, guid: b23d1e1faee0a204ca17946569f2ede3, type: 2}
+  - {fileID: 11400000, guid: 55ff497773a53384bb18eee126b5baf9, type: 2}

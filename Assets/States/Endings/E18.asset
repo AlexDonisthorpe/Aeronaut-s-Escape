@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: E18
+  m_EditorClassIdentifier: 
+  storyText: "You quickly swim to the side of the pier, wait cautiously for the man
+    to come closer, then leap up and grab his legs, toppling him off the side and
+    into the water.\r\n\r\nYou quickly attempt to establish a headlock, however you
+    now have a good look at the man, he appears to be quite muscular and toned, and
+    doesn't in the slightest look panicked.\r\n\r\nYour opponent also appeared to
+    be trained in underwater combat. You consider this as he puts you into a headlock
+    of his own.\n\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: b6b16cc69903d1643a5be76262a167ce, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: B1
+  m_EditorClassIdentifier: 
+  storyText: "There's one more room on this floor, and a spiral staircase that goes
+    up and down.\n\n1. Door\r\n2. Stairs Down\r\n\r3. Stairs Up"
+  nextStates:
+  - {fileID: 11400000, guid: 2b204281e4dcac44eb8eed17d3cf8fee, type: 2}
+  - {fileID: 11400000, guid: 11cd27958c89ac246b37c3f8fe766cca, type: 2}
+  - {fileID: 11400000, guid: b4b7bdd77ea361e48ac5972629dfe359, type: 2}

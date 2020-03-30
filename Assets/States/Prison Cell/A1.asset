@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  storyText: "You slowly wakeup with the worlds worst headche. Looking around,\r\nyou
+    realise you're inside a prison cell. Behind and above you, there's a window, maybe
+    worth a look to determine where you are?\r\n\r\nThat said maybe it's worth considering
+    an exit strategy, you check your boots - Aha! they didn't find your trusty lockpicks!
+    That might be worth a go, or will you call over the guard, and try to talk your
+    way out?\r\n\r\nWhat do you do?\r\n\r\n1.Check the Window\r\n2. Pick the lock\r\n3.
+    Call the guard"
+  nextStates:
+  - {fileID: 11400000, guid: 5167c5681549dc34f849b3cbb3f108cb, type: 2}
+  - {fileID: 11400000, guid: b3e9d044abc0adf42bc1185c33bd58a2, type: 2}
+  - {fileID: 11400000, guid: ba6f354daba77ca42bb29b281a26a2bd, type: 2}

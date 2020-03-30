@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: D1
+  m_EditorClassIdentifier: 
+  storyText: "The staircase goes down for what seems like forever, every time you
+    reach a new floor, another locked door blocks your path so you feel forced to
+    continue.\r\n\r\nEventually, the stairway ends and you're confronted with a T-junction.\r\n\r\n1.
+    Left\r\n2. Right"
+  nextStates:
+  - {fileID: 11400000, guid: 16603d6b2d60c3343967eb00ca8c9faa, type: 2}
+  - {fileID: 11400000, guid: b71b1ec97dbc8994e885efe0c2d4c9da, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: E17
+  m_EditorClassIdentifier: 
+  storyText: "Luckily! You're an aeronaut! coordinates are part of the trade! You
+    think up somewhere you'd like to go, enter in the coordinates into the special
+    dials on the wrist device and push the clockface into the steamjewel.\r\n\r\nPoof!\r\n\r\n\r\nYou
+    feel sunlight on your face. Onwards! to adventure!\n\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: b6b16cc69903d1643a5be76262a167ce, type: 2}

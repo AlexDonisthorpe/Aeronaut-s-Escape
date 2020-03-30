@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: E13
+  m_EditorClassIdentifier: 
+  storyText: "You drop to your knees, maybe he'll show some mercy.\r\n\r\n\"There
+    he is! he's doing it again! Give this man what he deserves!\"\r\n\r\nOr not...\r\n\r\nA
+    nearby soldier approaches you swiftly, you have no time to react as he draws his
+    blade.\n\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: b6b16cc69903d1643a5be76262a167ce, type: 2}

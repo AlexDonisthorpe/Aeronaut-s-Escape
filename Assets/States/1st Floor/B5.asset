@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: B5
+  m_EditorClassIdentifier: 
+  storyText: "The guard pays for your first round, and you fumble around for a while
+    trying to get to grips with the situation.\r\n\r\nWatching the game though you
+    feel like you could probably fleece these guys if you wanted...OR you could play
+    it safe and make a chilled exit later.\r\n\r\n1. Go all in!\r\n2. Play it safe"
+  nextStates:
+  - {fileID: 11400000, guid: 1cfcdd196f3ab9f4cb66a93e075283e0, type: 2}
+  - {fileID: 11400000, guid: eba77a64f7723d245a62b414eb73a153, type: 2}

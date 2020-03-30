@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: C10
+  m_EditorClassIdentifier: 
+  storyText: "Taking a runup to the ship you barrel across the deck and push the first
+    unsuspecting victim off the ship. Good start, but your luck doesn't last long,
+    you're suddenly surrounded by the remaining crew, and your attempts at brawling
+    your way out and met with a swift punch to the just and a backhand to the face.
+    Your crumple to the floor as the captain approaches.\r\n\r\n\"I've just lost one
+    good man to your antics, I am however not an unreasonable man. You can pledge
+    your loyalty to me here and now, or we can throw you off the ship and you can
+    meet your maker.\r\n\r\n1. Attack the captain!\r\n2. Choose death!\r\n3. Swear
+    fealty."
+  nextStates:
+  - {fileID: 11400000, guid: 60b5899b46de24a46ad3b686e8111c4f, type: 2}
+  - {fileID: 11400000, guid: 60b5899b46de24a46ad3b686e8111c4f, type: 2}
+  - {fileID: 11400000, guid: 594457ef1e4705a49b66fe6ba7599a42, type: 2}

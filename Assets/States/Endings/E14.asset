@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: E14
+  m_EditorClassIdentifier: 
+  storyText: 'As you slowly hop your way down to the water, you try to get a closer
+    look into it, but it''s pitch black. You decide it''s likely just water and a
+    small swim should be fine until you jump in. At first everything is fine, the
+    water is a bit cold, however after swimming for a short while you feel something
+    brush your leg. You panic and turn around but it''s too late, something pulls
+    you beneath the water, you can''t escape.
+
+
+    1. Continue'
+  nextStates:
+  - {fileID: 11400000, guid: b6b16cc69903d1643a5be76262a167ce, type: 2}

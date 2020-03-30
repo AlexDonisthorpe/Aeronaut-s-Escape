@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: C12
+  m_EditorClassIdentifier: 
+  storyText: "You make up your mind quickly, and immediately sprint towards the duke.
+    You leap over the table, grabbing a nearby carving knife and bring yourself up
+    behind the duke.\r\n\r\nThe room freezes, all the guards stop in their\r\ntracks
+    and the duke whispers to you quivering... \"I'll do anything, give\r\nyou anything,
+    let me go and you can leave! take the airship! just don't\r\nkill me!\"\r\n\r\n1.
+    Let the duke go, and try to barter an agreement.\r\n2. Slowly move yourself towards
+    the far doors with the duke in tow."
+  nextStates:
+  - {fileID: 11400000, guid: 22d3f1b344f9ae54b9593f9873101f16, type: 2}
+  - {fileID: 11400000, guid: 2dd52853f4eafee438a6db98e5086136, type: 2}

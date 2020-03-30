@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: A6
+  m_EditorClassIdentifier: 
+  storyText: 'You look the guard over, but the weapon he carries appears to be genelocked!
+    As you begin searching for hidden pockets, the guard makes noises that might indicate
+    him waking up.
+
+
+    1. Run for the corridor'
+  nextStates:
+  - {fileID: 11400000, guid: 3527ca402afc2a94180dd6c524b15531, type: 2}

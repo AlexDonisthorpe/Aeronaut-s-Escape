@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  storyText: "Looking out the window, the smell of the sea hits you like a truck long
+    before you look down and realise there's no land to be seen.\r\n\r\nArching your
+    neck down, you can just about make out what looks like a small harbour down below
+    with some ships.\r\n\r\nYou hear a noise from above you and reactively look up.
+    The sound was the unfurling of the windsails of an airship! Aha! perhaps a more
+    fitting escape for an Aeronaut, but perhaps also the more obvious one.\r\n\r\nYou
+    turn back to your cell, you still have to decide how to get out of here...\r\n\r\n1.
+    Pick the lock\r\n2. Call the guard."
+  nextStates:
+  - {fileID: 11400000, guid: b3e9d044abc0adf42bc1185c33bd58a2, type: 2}
+  - {fileID: 11400000, guid: ba6f354daba77ca42bb29b281a26a2bd, type: 2}

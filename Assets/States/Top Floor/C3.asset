@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: C3
+  m_EditorClassIdentifier: 
+  storyText: "You carefully step out onto the outside of the building and start shimmying
+    around the outside towards where the airship is docked.\r\n\r\nenroute you come
+    across a large window overlooking the scenery behind you. As you look inside you
+    see a very decorated dining room, sat nearby the window you can see the duke who
+    put you here for turning his job down (it has lousy benefits)\r\n\r\n1. Crash
+    through the window and attempt to hold the duke hostage.\r\n2. Try and quickly
+    slip by when the rooms occupant's attention is elsewhere."
+  nextStates:
+  - {fileID: 11400000, guid: f1334761db296bf4dab6ee9d5c957a52, type: 2}
+  - {fileID: 11400000, guid: 2a474d6d5f8ed624cbf25cc836355bef, type: 2}

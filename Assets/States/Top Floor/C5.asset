@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: C5
+  m_EditorClassIdentifier: 
+  storyText: "You slowly back yourself away from the main entrance and towards the
+    airship dock.\r\n\r\nYou exit out onto the platform, still holding onto the duke
+    as he pleads for his life.\r\n\r\nAs you head towards the airship you pass a broken
+    section of the handrail...a perfect opportunity to dispose of the duke?\r\n\r\n1.
+    Throw him off!\r\n2. Keep it moving"
+  nextStates:
+  - {fileID: 11400000, guid: da7be376cd808ed4685abbcb77cc4b31, type: 2}
+  - {fileID: 11400000, guid: faa5656dc809b3b43bba6e388592d9d1, type: 2}

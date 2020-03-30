@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: E19
+  m_EditorClassIdentifier: 
+  storyText: "You take the cap off the top of the barrel and step into the goop waiting
+    for you at the base. You manage to put the lid back on just in time as a member
+    of the crew walks his way down the stairs.\r\n\r\nYou're feeling pretty safe...\r\n\r\n\"Ahh,
+    a good hard days work, time for some grog! I think there was some left in that
+    barrel in the corner!\"\r\n\r\nNevermind.\r\n\r\nAs they pull the lid off the
+    barrel you look up at a dark haired bearded man. He quickly realises what's going
+    on.\r\n\n1. Continue\n\r\n\"A STOWAWAY! NOT AGAIN! I'M NOT GETTING IN TROUBLE
+    FOR THIS A SECOND TIME! THOSE BLOODY GUARDS!\""
+  nextStates:
+  - {fileID: 11400000, guid: b6b16cc69903d1643a5be76262a167ce, type: 2}

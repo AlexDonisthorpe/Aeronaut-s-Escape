@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: E22
+  m_EditorClassIdentifier: 
+  storyText: "\"An honest man! Truth be told I wasn't expecting much from the man
+    whom I had to help bring here, but the fact that you're not trying to swindle
+    a ride out of me pleases me.\"\r\n\r\n\"You're also pretty lucky, the duke is
+    refusing to pay us our full due, and we're understaffed as is, so if you can chip
+    in for a while I'll take you outta here. Grab some new scrubs from the ship whilst
+    we finish up. We'll talk later.\"\n\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: b6b16cc69903d1643a5be76262a167ce, type: 2}

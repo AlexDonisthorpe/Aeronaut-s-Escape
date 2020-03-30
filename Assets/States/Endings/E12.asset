@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: E12
+  m_EditorClassIdentifier: 
+  storyText: "You take stock of the situation and decide there's only one realistic
+    way out of this intact.\r\nYou swear fealty to the captain, who immediately starts
+    issuing orders.\r\n\r\n\"This runt was probably a lucky prisoner here, so lets
+    lock him in the brig for now. Then we'll deal with him later. For now let's finish
+    robbing this duke blind and get out of here\"\r\n\r\nThe crew grin in unison and
+    you are escorted below deck into a locked room.\r\n\r\nAs night falls you hear
+    shouting, gunshots and the clinking of steel, followed by the airship booming
+    into motion.\r\n\r\nI guess you're a pirate now?\n\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: b6b16cc69903d1643a5be76262a167ce, type: 2}

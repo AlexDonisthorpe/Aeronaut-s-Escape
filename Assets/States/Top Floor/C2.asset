@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: C2
+  m_EditorClassIdentifier: 
+  storyText: "You look out the open window and realise for the first time you're in
+    a tower, on a small island, surrounded by the sea. You don't remember getting
+    here but you'd like to get out.\r\n\r\nLooking around, you see if you jump after
+    a significant drop you see there might be a good place to land, maybe you can
+    swim to the harbour from there.\r\n\r\nEqually, you might be able to climb around
+    the tower by stepping out of the window and hanging on for life, you can see the
+    airship not too far away.\r\n\r\n1. Jump\r\n2. Climbing time!"
+  nextStates:
+  - {fileID: 11400000, guid: 5bddd742d78aab949b0eddb43c160d9c, type: 2}
+  - {fileID: 11400000, guid: 70b25989119e88145b1f5f285d4f8dd9, type: 2}

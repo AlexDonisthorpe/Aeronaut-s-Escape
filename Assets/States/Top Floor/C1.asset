@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: C1
+  m_EditorClassIdentifier: 
+  storyText: "The staircase continues winding upwards for a fair amount of time, as
+    you glance at the windows enroute you can see an airship docked up above.\r\n\r\nYou
+    continue onwards until you reach the next floor. No longer a cramped corridor,
+    you appear to be in a waiting room prior to another room behind large double doors.
+    You can hear music from the behind these doors.\r\n\r\nTo the side of the room
+    however is a large opened window.\r\n\r\n1. Investigate the window\r\n2. Open
+    the double doors"
+  nextStates:
+  - {fileID: 11400000, guid: b9925b9cbc13b654791a314aa7bca3b5, type: 2}
+  - {fileID: 11400000, guid: 2bd853f52f93d5f459e01a192d9e11e2, type: 2}

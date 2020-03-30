@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: C13
+  m_EditorClassIdentifier: 
+  storyText: "You slowly walk onboard the airship with your hands raised and call
+    out for the captain.\r\n\r\n\"Hmm, you're looking for passage off are you? and
+    what's in it for me? you probably want out of here in non-official channels for
+    a reason? what's stopping me from calling our mutual friend the duke?\"\r\n\r\n\r\n1.
+    Offer servitude\r\n2. Offer your lockpicks"
+  nextStates:
+  - {fileID: 11400000, guid: 594457ef1e4705a49b66fe6ba7599a42, type: 2}
+  - {fileID: 11400000, guid: 0a3ac053d96338a42b0d71137ac50154, type: 2}

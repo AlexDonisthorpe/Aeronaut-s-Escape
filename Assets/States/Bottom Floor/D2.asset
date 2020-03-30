@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: D2
+  m_EditorClassIdentifier: 
+  storyText: "It doesn't take long for the corridor to open out into a large cave
+    like area. You appear to be in some form of underground dock for cargo ships!\r\n\r\nLooking
+    around you can see some workers working on the dock nearby a fairly empty cargo
+    ship. It looks like it's nearly ready to depart, having offloaded its goods.\r\n\r\nYou
+    may be able to convince the workers to stow you away on board, or you can swim
+    around the ship and climb aboard.\r\n\r\n1. Approach the Sailors\r\n2. Swim around!"
+  nextStates:
+  - {fileID: 11400000, guid: 806d03f79cef5af4da0b0126e38bab30, type: 2}
+  - {fileID: 11400000, guid: b2f07f609ee15fc49af947c652f5f175, type: 2}

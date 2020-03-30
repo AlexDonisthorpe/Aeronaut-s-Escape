@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: E20
+  m_EditorClassIdentifier: 
+  storyText: "You dive behind the crates just in time. Lucky too, as the man with
+    the beard walks straight over to the barrel and drops a mug in there before fishing
+    it out, full of some sticky liquid. He then heads back up on deck, looking very
+    proud of himself.\r\n\r\nYou look around at your surroundings and realise you've
+    hit the jackpot! In the corner there's a ringpull into a smaller compartment,
+    probably a smugglers hideaway. Opening it up reveals there's nothing inside, great
+    news! no one will be looking in here! and the crates are filled with food and
+    drinks, there's an abundance here, you don't think they'll miss a few bits going
+    to a good cause!\r\n\r\nYou settle in for a peaceful ride out of this place!\n\n1.
+    Continue"
+  nextStates:
+  - {fileID: 11400000, guid: b6b16cc69903d1643a5be76262a167ce, type: 2}

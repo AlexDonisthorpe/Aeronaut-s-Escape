@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  storyText: "2.B Door\r\nAs you enter, you immediately regret your decision, this
+    is the guards barracks. There are 3 guards in the back corner playing some form
+    of cards, with 1 lying awake reading a book in a nearby book. As you enter, they
+    all look at you. What do you do?\r\n\r\n1. Start a fight!\r\n2. Bluff your way
+    into the card game\r\n3. Immediately turn around and walk out like you took a
+    wrong turn"
+  nextStates:
+  - {fileID: 11400000, guid: ddbe787738d63084db8eb3fc7f773e76, type: 2}
+  - {fileID: 11400000, guid: 678b4ddc7b4ca8948a9eb2c996e42d10, type: 2}
+  - {fileID: 11400000, guid: 55ff497773a53384bb18eee126b5baf9, type: 2}

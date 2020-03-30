@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: D4
+  m_EditorClassIdentifier: 
+  storyText: "As you begin to jump across the pillars you start to feel more comfortable
+    in your abilities. As you reach the center of the room you scramble your way up
+    onto the bridge and look down the other side, to your left there seems to be a
+    lowered section of the far platform that looks fairly easy to reach, but you'll
+    have to make your way down on some pillars and swim across a small portion of
+    the water below.\r\n\r\nAlternatively, if you climb up onto part of the bridge
+    mechanism, you think you can grab onto a chain supporting a lamp hanging from
+    the ceiling, in order to swing yourself across the remaining section.\r\n\n1.
+    Swing\r\n2. Swim"
+  nextStates:
+  - {fileID: 11400000, guid: c7d2e38bfbf78954ca408009f282bcd8, type: 2}
+  - {fileID: 11400000, guid: 1eb7232999cd1ce4b85c9ad799e4f131, type: 2}

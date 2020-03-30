@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: D9
+  m_EditorClassIdentifier: 
+  storyText: "You turn the door in sequence and at first nothing happens. Just as
+    you begin to suspect the other option was the better idea, you hear a resounding
+    click. Slowly the door begins to unlock, unveiling a small alcove with a pedestal
+    inside.\r\n\r\nLooking upon the pedestal you see a strange device, it looks like
+    some sort of wristband with a clunky clothface attached, but the clockface is
+    embedded in some form of jeweled material.\r\n\r\nWait. This is a teleport-o-max-10k.
+    They're single use devices for the most part (they require a new steamjewel every
+    teleport but it means you can teleport wherever you like in the world given the
+    right coordinates.\n\n1. Get out of here!"
+  nextStates:
+  - {fileID: 11400000, guid: efc6d6c92dcaf664c8fbbbe7b143f6cd, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: D11
+  m_EditorClassIdentifier: 
+  storyText: "You sneak around the side of the dock and slip into the water. So far
+    so good as you swim out towards the ships far side. as you swim past the ships
+    bow you notice that there's another pier extending to another nearby ship. Not
+    intially a problem, however as you continue to swim you can see that there's someone
+    working on that pier, and they're walking to where they'll get a clear look at
+    you.\r\n\r\nIf you're quick you might be able to swim up to the pier and yank
+    him in, just like the movies!\r\n\r\nOr you can dive briefly, before quitely climbing
+    the side of the ship.\r\n\r\n1. Attack the worker\r\n2. Dive! Dive! Dive!"
+  nextStates:
+  - {fileID: 11400000, guid: ca2a023786602114aae335931e1a2f2b, type: 2}
+  - {fileID: 11400000, guid: 1b4726cf647348041a8382587b2638be, type: 2}

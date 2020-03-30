@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: C6
+  m_EditorClassIdentifier: 
+  storyText: "A gentle push and a long fading scream later, the duke is gone.\r\n\r\nFrom
+    inside the banquet room, a small platoon's worth of guards push themselves out
+    on the platform.\r\n\r\nThey're quick and leave you no time to run for the ship.\r\n\r\n1.
+    Try to talk them down?\r\n2. Draw your carving knife."
+  nextStates:
+  - {fileID: 11400000, guid: 87a8dfe81978d8546bfb053f09d95bb2, type: 2}
+  - {fileID: 11400000, guid: 48c96e815bb6fdd438257f7dc5f9627a, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24565287644b1d49b633f6e29ff6fb3, type: 3}
+  m_Name: D7
+  m_EditorClassIdentifier: 
+  storyText: "You now look up at the door that the bridge was preventing access\r\nto
+    and realise it is also protected by a huge mechanism. Cogs\r\neverywhere, but
+    you do see a keyhole deep within the mechanism itself you'd probably have to stick
+    both your arms into the mechanism entirely to get access. alternatively perhaps
+    a closer\r\nlooks at the mechanism itself might reveal a way past.\r\n\r\n1. Pick
+    the keyhole\r\n2. Review the mechanism."
+  nextStates:
+  - {fileID: 11400000, guid: 0c238cd149d45cd41b71613cb82e832b, type: 2}
+  - {fileID: 11400000, guid: 5d812fbdcf9bed54db70a6a29dbeabbf, type: 2}
