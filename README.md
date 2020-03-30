@@ -10,6 +10,6 @@ This game was designed and built alongside GameDev.tv's Course: [Complete C# Uni
 * Create a basic game whereby the text would update based on player input.
 * Implement a number of different areas and endings within the game providing limited replayability as players explored each area.
 
-## The game
+## Game
 
 I'm unable to host the game here on github but here's a [playable link!](https://simmer.io/@Tenlaael/~b3bd5c3f-8c0c-9740-84a8-ebc6054d4d80)
